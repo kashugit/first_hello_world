@@ -35,7 +35,7 @@ public class Main {
         int x=0;
         while(x<=5)
         {
-            System.out.println("Current value in the WHILE loop x (3rd change): "+ x);
+            System.out.println("Current value in the WHILE loop x (2nd Branch change): "+ x);
             x++;
         }
 
